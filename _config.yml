@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Yizhong Sun"
 description              : "Academic homepage of Yizhong Sun, Postdoctoral Researcher in Computational Mathematics at Hong Kong Baptist University."
-url                      : "https://bill950204.github.io"
-baseurl                  : "/yzsun95.github.io"
-repository               : "bill950204/yzsun95.github.io"
+url                      : "https://yzsun95.github.io"
+baseurl                  : ""
+repository               : "yzsun95/yzsun95.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -70,6 +70,9 @@ exclude:
   - tools
   - .superpowers
   - docs
+  - task_plan.md
+  - findings.md
+  - progress.md
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

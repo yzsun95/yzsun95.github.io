@@ -10,11 +10,11 @@ redirect_from:
 
 <section class="home-hero">
   <div class="home-hero__text">
-    <p class="home-hero__eyebrow">Computational Mathematics | Numerical PDEs | Meshfree Methods</p>
+    <p class="home-hero__eyebrow">Computational Mathematics | Finite Elements | Meshfree Methods</p>
     <h1>Yizhong Sun</h1>
     <p class="home-hero__lead">Postdoctoral Researcher in Computational Mathematics at Hong Kong Baptist University.</p>
     <p>
-      My research focuses on numerical analysis, scalable solvers, and reproducible algorithms for interface-coupled multiphysics problems and meshfree methods for PDEs on curved surfaces and thin shells.
+      My research focuses on finite element and meshfree numerical methods for partial differential equations, with emphasis on interface-coupled multiphysics, scalable solvers, and PDEs on curved surfaces and thin shells.
     </p>
     <p class="home-hero__actions">
       <a class="home-button home-button--primary" href="#publications">Publications</a>
@@ -31,9 +31,9 @@ redirect_from:
 
 # About Me
 
-I am a postdoctoral researcher in the Department of Mathematics at Hong Kong Baptist University, hosted by Prof. Leevan Ling. My work combines numerical analysis, scalable algorithms, and reproducible scientific computing for PDE models arising from coupled flow, porous media, and evolving geometric domains.
+I am a postdoctoral researcher in the Department of Mathematics at Hong Kong Baptist University, hosted by Prof. Leevan Ling. My work combines numerical analysis, scalable algorithms, and reproducible scientific computing for partial differential equations.
 
-My current research has two connected directions: interface-coupled multiphysics problems, including Stokes--Darcy, free-flow--poroelasticity, and FSI/ALE formulations; and meshfree strong-form discretizations for PDEs on curved surfaces and thin shells, including RBF collocation and RBF-FD methods.
+My research spans stable and scalable finite element methods for interface-coupled multiphysics problems, including Stokes--Darcy, free-flow--poroelasticity, and FSI/ALE formulations, as well as meshfree strong-form discretizations for PDEs on curved surfaces and thin shells, including RBF collocation and RBF-FD methods.
 
 <span class="anchor" id="research"></span>
 
@@ -41,12 +41,16 @@ My current research has two connected directions: interface-coupled multiphysics
 
 <div class="research-grid">
   <article>
-    <h3>Interface-Coupled Multiphysics</h3>
-    <p>Domain decomposition and partitioned time-stepping schemes for coupled Stokes--Darcy, free-flow--poroelasticity, and moving-interface models.</p>
+    <h3>Finite Element Methods &amp; Numerical Analysis</h3>
+    <p>Stability and convergence analysis for finite element discretizations, including Nitsche methods, SAV schemes, domain decomposition, and partitioned time stepping.</p>
   </article>
   <article>
-    <h3>Meshfree Surface PDE Solvers</h3>
-    <p>RBF collocation, RBF-FD, and trajectory-based schemes for PDEs on surfaces, thin shells, and high-dimensional manifolds.</p>
+    <h3>Multiphysics Coupling &amp; Scalable Solvers</h3>
+    <p>Scalable algorithms for Stokes--Darcy, free-flow--poroelasticity, FSI/ALE, and other interface-coupled systems.</p>
+  </article>
+  <article>
+    <h3>Meshfree Methods for Surface PDEs</h3>
+    <p>RBF collocation, RBF-FD, and trajectory-based schemes for PDEs on curved surfaces, thin shells, and high-dimensional manifolds.</p>
   </article>
 </div>
 
@@ -135,7 +139,7 @@ My current research has two connected directions: interface-coupled multiphysics
 
 # Technical Skills
 
-- **Scientific computing and PDE solvers:** FreeFEM++, Python/FEniCS, MATLAB, RBF collocation, RBF-FD, and point-cloud surface operators.
+- **Finite element and meshfree PDE solvers:** FreeFEM++, Python/FEniCS, MATLAB, domain decomposition, Nitsche methods, RBF collocation, RBF-FD, and point-cloud surface operators.
 - **Geometry, meshing, and vascular workflows:** CAD basics, Gmsh, and SimVascular for surface/volume mesh generation and preprocessing.
 
 <span class="anchor" id="publications"></span>
