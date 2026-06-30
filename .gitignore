@@ -1,0 +1,14 @@
+_site/
+push.sh
+.DS_Store
+.sass-cache/
+.jekyll-cache/
+.superpowers/
+docs/
+tools/
+findings.md
+progress.md
+task_plan.md
+cv whole informations.tex
+files/*.tex
+微信图片_*.jpg

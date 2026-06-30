@@ -1,0 +1,323 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(220px, 0.8fr);
+    gap: 1.5rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding: 1.25rem;
+    border: 1px solid #d9e2ec;
+    border-radius: 8px;
+    background: #fbfdff;
+}
+
+.home-hero__eyebrow {
+    margin: 0 0 .5rem;
+    color: #3a6ea5;
+    font-size: .85rem;
+    font-weight: 700;
+}
+
+.home-hero h1 {
+    margin: 0 0 .5rem;
+    color: #173b5c;
+    letter-spacing: 0;
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.home-hero__lead {
+    font-size: 1.08rem;
+    color: #334155;
+}
+
+.home-hero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: 1rem;
+}
+
+.home-button {
+    display: inline-block;
+    padding: .48rem .72rem;
+    border: 1px solid #b8c8d8;
+    border-radius: 6px;
+    color: #173b5c;
+    background: #fff;
+    text-decoration: none;
+}
+
+.home-button--primary {
+    border-color: #173b5c;
+    background: #173b5c;
+    color: #fff;
+}
+
+.home-hero__image img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: 56% 45%;
+    border-radius: 8px;
+}
+
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .8rem;
+    margin: 1rem 0 1.5rem;
+}
+
+.research-grid article {
+    border: 1px solid #d9e2ec;
+    border-radius: 8px;
+    padding: .9rem;
+    background: #fff;
+}
+
+.research-grid h3 {
+    margin-top: 0;
+    color: #173b5c;
+    font-size: 1rem;
+}
+
+.academic-timeline {
+    margin: 1.25rem 0 2rem;
+}
+
+.academic-timeline__item {
+    display: grid;
+    grid-template-columns: 9.75rem minmax(0, 1fr);
+    gap: 1.4rem;
+}
+
+.academic-timeline__date {
+    padding-top: .2rem;
+    color: #52606d;
+    font-size: .78rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.academic-timeline__content {
+    position: relative;
+    padding: 0 0 1.55rem 1.5rem;
+    border-left: 1px solid #cbd5df;
+}
+
+.academic-timeline__content::before {
+    content: "";
+    position: absolute;
+    top: .3rem;
+    left: -5px;
+    width: 9px;
+    height: 9px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: #b7791f;
+    box-shadow: 0 0 0 1px #b7791f;
+}
+
+.academic-timeline__item:last-child .academic-timeline__content {
+    padding-bottom: .15rem;
+}
+
+.academic-timeline__label {
+    margin: 0 0 .25rem;
+    color: #16736b;
+    font-size: .72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.academic-timeline__content h3,
+.visiting-list__item h3 {
+    margin: 0 0 .3rem;
+    color: #173b5c;
+    font-size: 1.02rem;
+    line-height: 1.35;
+}
+
+.academic-timeline__content p,
+.visiting-list__item p {
+    margin: .25rem 0 0;
+}
+
+.academic-timeline__institution {
+    color: #263746;
+    font-weight: 700;
+}
+
+.academic-timeline__institution span {
+    margin-left: .35rem;
+    color: #697784;
+    font-size: .82rem;
+    font-weight: 400;
+}
+
+.visiting-list {
+    margin: 1rem 0 2rem;
+    border-top: 1px solid #d9e2ec;
+}
+
+.visiting-list__item {
+    display: grid;
+    grid-template-columns: 9.75rem minmax(0, 1fr);
+    gap: 1.4rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #d9e2ec;
+}
+
+.visiting-list__date {
+    color: #16736b;
+    font-size: .78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.author__avatar img {
+    object-fit: cover;
+}
+
+@media (max-width: 760px) {
+    .home-hero,
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .home-hero__image img {
+        object-position: 56% 42%;
+    }
+
+    .academic-timeline__item,
+    .visiting-list__item {
+        grid-template-columns: 1fr;
+        gap: .35rem;
+    }
+
+    .academic-timeline__content {
+        margin-left: .3rem;
+        padding-left: 1.2rem;
+    }
+
+    .academic-timeline__date {
+        padding-left: 1.5rem;
+    }
+
+    .academic-timeline__institution span {
+        display: block;
+        margin-left: 0;
+    }
+}

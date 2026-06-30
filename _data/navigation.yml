@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Visiting"
+    url: "/#visiting"
+
+  - title: "Leadership"
+    url: "/#leadership"
+
+  - title: "Publications"
+    url: "/#publications"
