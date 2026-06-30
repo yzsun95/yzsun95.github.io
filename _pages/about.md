@@ -146,8 +146,6 @@ My research spans stable and scalable finite element methods for interface-coupl
 
 # Publications
 
-*Notation: \* indicates corresponding author. Journal metadata is listed when available.*
-
 ## Journal Articles
 
 1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\* (2026). *Trajectory-based RBF collocation method for surface advection--diffusion equations*. Accepted, **SIAM Journal on Scientific Computing**. arXiv:2601.18186.
