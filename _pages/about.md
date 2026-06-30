@@ -14,7 +14,7 @@ redirect_from:
     <h1>Yizhong Sun</h1>
     <p class="home-hero__lead">Postdoctoral Researcher in Computational Mathematics at Hong Kong Baptist University.</p>
     <p>
-      My research focuses on finite element and meshfree numerical methods for partial differential equations, with emphasis on interface-coupled multiphysics, scalable solvers, and PDEs on curved surfaces and thin shells.
+      My research focuses on finite element and meshfree methods for partial differential equations, with emphasis on interface-coupled multiphysics, scalable solvers, and PDEs on curved surfaces and thin shells.
     </p>
     <p class="home-hero__actions">
       <a class="home-button home-button--primary" href="#publications">Publications</a>
