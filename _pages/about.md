@@ -113,7 +113,7 @@ My research spans stable and scalable finite element methods for interface-coupl
     <p class="visiting-list__date">Aug 2018 -- Sep 2018</p>
     <div>
       <h3>Academic Exchange Student</h3>
-      <p>Hosted by Prof. Lili Ju, University of South Carolina, and Dr. Yifan Wang, Texas Tech University.</p>
+      <p>Hosted by Prof. Lili Ju, University of South Carolina, and Prof. Yifan Wang, Texas Tech University.</p>
     </div>
   </article>
 </div>
