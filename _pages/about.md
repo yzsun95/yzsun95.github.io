@@ -133,7 +133,7 @@ My research spans stable and scalable finite element methods for interface-coupl
 
 - Doctoral Student Innovation Ability Enhancement Program, Project Award.
 - Outstanding Ph.D. Thesis Award.
-- Journal referee for **Journal of Computational Physics**, **Journal of Computational and Applied Mathematics**, **Applied Mathematics Letters**, **International Journal for Numerical Methods in Engineering**, **Numerical Algorithms**, and **Applied Numerical Mathematics**.
+- Journal referee for **Journal of Computational Physics**, **Journal of Computational and Applied Mathematics**, **Applied Mathematics Letters**, **International Journal for Numerical Methods in Engineering**, **Numerical Algorithms**, and **Applied Numerical Mathematics** et al.
 
 <span class="anchor" id="skills"></span>
 
