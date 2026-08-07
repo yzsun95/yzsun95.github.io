@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yizhong Sun"
-description              : "Academic homepage of Yizhong Sun, Postdoctoral Researcher in Computational Mathematics at Hong Kong Baptist University."
+description              : "Yizhong Sun is a postdoctoral researcher in computational mathematics at Hong Kong Baptist University, working on finite element methods, meshfree methods, numerical analysis, and PDE solvers."
 url                      : "https://yzsun95.github.io"
 baseurl                  : ""
 repository               : "yzsun95/yzsun95.github.io"
@@ -25,9 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yizhong Sun"
   avatar           : "images/profile-avatar.jpg"
-  bio              : "Postdoctoral Researcher in Computational Mathematics, Department of Mathematics, Hong Kong Baptist University"
-  location         : "Hong Kong"
-  employer         : "Hong Kong Baptist University"
+  bio              : "Postdoctoral Researcher in Computational Mathematics<br><a href=\"https://www.math.hkbu.edu.hk/\">Department of Mathematics</a><br><a href=\"https://www.google.com/maps/search/?api=1&query=FSC1003%2C%20Hong%20Kong%20Baptist%20University%2C%20224%20Waterloo%20Road%2C%20Kowloon%20Tong%2C%20Hong%20Kong\">Hong Kong Baptist University</a>"
+  location         :
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HS_-OPIAAAAJ&hl=en"
   email            : "yzsun95@hkbu.edu.hk"
