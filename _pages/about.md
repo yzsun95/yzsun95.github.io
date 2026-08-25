@@ -148,7 +148,7 @@ My research spans stable and scalable finite element methods for interface-coupl
 
 ## Journal Articles
 
-1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\* (2026). *Trajectory-based RBF collocation method for surface advection--diffusion equations*. Accepted, **SIAM Journal on Scientific Computing**. arXiv:2601.18186.
+1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\* (2026). *Trajectory--based RBF collocation method via closest--point embedding for surface advection--diffusion equations*. Accepted, **SIAM Journal on Scientific Computing**. arXiv:2601.18186.
 
 2. Chunchi Liu, Yao Rong\*, **Yizhong Sun**\*, Jiaping Yu, Haibiao Zheng (2026). *Multi-Level Monte Carlo Ensemble Domain Decomposition Method for the Random Stokes--Darcy Models with Uncertain Parameters*. **Journal of Computational Physics**, 556, 114800.
 
