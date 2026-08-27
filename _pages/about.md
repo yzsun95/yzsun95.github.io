@@ -112,7 +112,8 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div>
       <h3>Visiting Research Student</h3>
       <p><strong>University of Calgary, Canada</strong> | Department of Chemical and Petroleum Engineering</p>
-      <p>Host: <a href="https://profiles.ucalgary.ca/zhangxing-chen">Prof. Zhangxing (John) Chen</a>. Research training in reservoir engineering, numerical reservoir simulation, and dynamic wellbore--reservoir interaction.</p>
+      <p>Host: <a href="https://profiles.ucalgary.ca/zhangxing-chen">Prof. Zhangxing (John) Chen</a>.<p> 
+      <p>Research training in reservoir engineering, numerical reservoir simulation, and dynamic wellbore--reservoir interaction.</p>
     </div>
   </article>
   <article class="visiting-list__item">
