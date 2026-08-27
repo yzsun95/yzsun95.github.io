@@ -89,7 +89,8 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>M.Sc. in Computational Mathematics</h3>
       <p class="academic-timeline__institution">East China Normal University <span>Shanghai, China</span></p>
-      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>. Thesis: <em>Nitsche's Type Stabilized Finite Element Method for the Fully Mixed Stokes--Darcy System</em>.</p>
+      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>.</span></p>
+      <p>Thesis: <em>Nitsche's Type Stabilized Finite Element Method for the Fully Mixed Stokes--Darcy System</em>.</p>
     </div>
   </article>
   <article class="academic-timeline__item">
