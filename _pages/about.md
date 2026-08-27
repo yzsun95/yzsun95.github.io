@@ -64,7 +64,7 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>Postdoctoral Researcher in Computational Mathematics</h3>
       <p class="academic-timeline__institution">Hong Kong Baptist University <span>Hong Kong</span></p>
-      <p>Host: <a href="https://www.math.hkbu.edu.hk/~lling/index.html">Prof. Leevan Ling</a>.</span></p>
+      <p>Host: <a href="https://www.math.hkbu.edu.hk/~lling/index.html">Prof. Leevan Ling</a>.</p>
       <p>Research on meshfree methods for surface PDEs and hyperbolic conservation laws, including trajectory-based transport schemes and regularity diagnostics.</p>
     </div>
   </article>
@@ -80,7 +80,7 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>Ph.D. in Computational Mathematics</h3>
       <p class="academic-timeline__institution">East China Normal University <span>Shanghai, China</span></p>
-      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>. </span></p>
+      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>.</p>
       <p>Thesis: <em>Robin-type Domain Decomposition Methods for Fluid Multi-physics Coupled Systems</em>.</p>
     </div>
   </article>
@@ -89,7 +89,7 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>M.Sc. in Computational Mathematics</h3>
       <p class="academic-timeline__institution">East China Normal University <span>Shanghai, China</span></p>
-      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>.</span></p>
+      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>.</p>
       <p>Thesis: <em>Nitsche's Type Stabilized Finite Element Method for the Fully Mixed Stokes--Darcy System</em>.</p>
     </div>
   </article>
