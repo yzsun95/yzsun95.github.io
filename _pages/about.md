@@ -64,7 +64,8 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>Postdoctoral Researcher in Computational Mathematics</h3>
       <p class="academic-timeline__institution">Hong Kong Baptist University <span>Hong Kong</span></p>
-      <p>Department of Mathematics. Host: <a href="https://www.math.hkbu.edu.hk/~lling/index.html">Prof. Leevan Ling</a>. Research on meshfree methods for surface PDEs and hyperbolic conservation laws, including trajectory-based transport schemes and regularity diagnostics.</p>
+      <p>Host: <a href="https://www.math.hkbu.edu.hk/~lling/index.html">Prof. Leevan Ling</a>.</span></p>
+      <p>Research on meshfree methods for surface PDEs and hyperbolic conservation laws, including trajectory-based transport schemes and regularity diagnostics.</p>
     </div>
   </article>
 </div>
@@ -79,7 +80,8 @@ My research spans stable and scalable finite element methods for interface-coupl
     <div class="academic-timeline__content">
       <h3>Ph.D. in Computational Mathematics</h3>
       <p class="academic-timeline__institution">East China Normal University <span>Shanghai, China</span></p>
-      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>. Thesis: <em>Robin-type Domain Decomposition Methods for Fluid Multi-physics Coupled Systems</em>.</p>
+      <p>Supervisor: <a href="https://math.ecnu.edu.cn/en/facultydetailen.html?uid=hbzheng">Prof. Haibiao Zheng</a>. </span></p>
+      <p>Thesis: <em>Robin-type Domain Decomposition Methods for Fluid Multi-physics Coupled Systems</em>.</p>
     </div>
   </article>
   <article class="academic-timeline__item">
@@ -156,30 +158,30 @@ My research spans stable and scalable finite element methods for interface-coupl
 
 ## Journal Articles
 
-1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\* (2026). [*Trajectory-Based RBF Collocation Method via Closest-Point Embedding for Surface Advection--Diffusion Equations*](https://arxiv.org/abs/2601.18186). Accepted, **SIAM Journal on Scientific Computing**.
+1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\*. [*Trajectory-Based RBF Collocation Method via Closest-Point Embedding for Surface Advection--Diffusion Equations*](https://arxiv.org/abs/2601.18186). Accepted, **SIAM Journal on Scientific Computing** (2026).
 
-2. Chunchi Liu, Yao Rong\*, **Yizhong Sun**\*, Jiaping Yu, Haibiao Zheng (2026). [*Multi-Level Monte Carlo Ensemble Domain Decomposition Method for the Random Stokes--Darcy Models with Uncertain Parameters*](https://doi.org/10.1016/j.jcp.2026.114800). **Journal of Computational Physics**, 556, 114800.
+2. Chunchi Liu, Yao Rong\*, **Yizhong Sun**\*, Jiaping Yu, Haibiao Zheng. [*Multi-Level Monte Carlo Ensemble Domain Decomposition Method for the Random Stokes--Darcy Models with Uncertain Parameters*](https://doi.org/10.1016/j.jcp.2026.114800). **Journal of Computational Physics**, 556, 114800 (2026).
 
-3. Shihan Guo, **Yizhong Sun**, Yifan Wang\*, Xiaohe Yue, Haibiao Zheng (2025). [*A fully parallelizable loosely coupled scheme for fluid-poroelastic structure interaction problems*](https://doi.org/10.1137/24M1695713). **SIAM Journal on Scientific Computing**, 47(4), B951--B975.
+3. Shihan Guo, **Yizhong Sun**, Yifan Wang\*, Xiaohe Yue, Haibiao Zheng. [*A fully parallelizable loosely coupled scheme for fluid-poroelastic structure interaction problems*](https://doi.org/10.1137/24M1695713). **SIAM Journal on Scientific Computing**, 47(4), B951--B975 (2025).
 
-4. Ziwei Liu, Li Shan\*, **Yizhong Sun**, Haibiao Zheng (2025). [*SAV decoupled ensemble algorithm for the dual-porosity--Stokes model with uncertainty quantification*](https://doi.org/10.1002/num.70037). **Numerical Methods for Partial Differential Equations**, 41, e70037.
+4. Ziwei Liu, Li Shan\*, **Yizhong Sun**, Haibiao Zheng. [*SAV decoupled ensemble algorithm for the dual-porosity--Stokes model with uncertainty quantification*](https://doi.org/10.1002/num.70037). **Numerical Methods for Partial Differential Equations**, 41, e70037 (2025).
 
-5. Zheng Li, Feng Shi, **Yizhong Sun**\*, Yuhong Zhang, Haibiao Zheng (2024). [*Parallel domain decomposition method for the fully-mixed Stokes--dual-permeability fluid flow model with Beavers--Joseph interface conditions*](https://doi.org/10.4208/cicp.OA-2023-0258). **Communications in Computational Physics**, 36(2), 551--580.
+5. Chunchi Liu, **Yizhong Sun**\*, Jiaping Yu. [*SAV unconditional stable estimate of parallel decoupled stabilized finite element algorithm for the fully mixed Stokes--Darcy problems*](https://doi.org/10.1016/j.aml.2024.109393). **Applied Mathematics Letters**, 162, 109393 (2025).
 
-6. **Yizhong Sun**, Jiangshan Wang\*, Haibiao Zheng (2024). [*Novel partitioned time-stepping algorithms for fast computation of random interface-coupled problems with uncertain parameters*](https://doi.org/10.4208/nmtma.OA-2023-0109). **Numerical Mathematics: Theory, Methods and Applications**, 17(1), 145--180.
+6. Zheng Li, Feng Shi, **Yizhong Sun**\*, Yuhong Zhang, Haibiao Zheng. [*Parallel domain decomposition method for the fully-mixed Stokes--dual-permeability fluid flow model with Beavers--Joseph interface conditions*](https://doi.org/10.4208/cicp.OA-2023-0258). **Communications in Computational Physics**, 36(2), 551--580 (2024).
 
-7. Chunchi Liu, **Yizhong Sun**\*, Jiaping Yu (2025). [*SAV unconditional stable estimate of parallel decoupled stabilized finite element algorithm for the fully mixed Stokes--Darcy problems*](https://doi.org/10.1016/j.aml.2024.109393). **Applied Mathematics Letters**, 162, 109393.
+7. **Yizhong Sun**, Jiangshan Wang\*, Haibiao Zheng. [*Novel partitioned time-stepping algorithms for fast computation of random interface-coupled problems with uncertain parameters*](https://doi.org/10.4208/nmtma.OA-2023-0109). **Numerical Mathematics: Theory, Methods and Applications**, 17(1), 145--180  (2024).
 
-8. Feng Shi, **Yizhong Sun**\*, Haibiao Zheng\* (2023). [*Ensemble domain decomposition algorithm for the fully-mixed random Stokes--Darcy model with the Beavers--Joseph interface conditions*](https://doi.org/10.1137/22M1482846). **SIAM Journal on Numerical Analysis**, 61, 1482--1512.
+8. Feng Shi, **Yizhong Sun**\*, Haibiao Zheng\*. [*Ensemble domain decomposition algorithm for the fully-mixed random Stokes--Darcy model with the Beavers--Joseph interface conditions*](https://doi.org/10.1137/22M1482846). **SIAM Journal on Numerical Analysis**, 61, 1482--1512 (2023).
 
-9. **Yizhong Sun**, Weiwei Sun, Haibiao Zheng\* (2021). [*Domain decomposition method for the fully-mixed Stokes--Darcy coupled problem*](https://doi.org/10.1016/j.cma.2020.113578). **Computer Methods in Applied Mechanics and Engineering**, 374, 113578.
+9. **Yizhong Sun**, Weiwei Sun, Haibiao Zheng\*. [*Domain decomposition method for the fully-mixed Stokes--Darcy coupled problem*](https://doi.org/10.1016/j.cma.2020.113578). **Computer Methods in Applied Mechanics and Engineering**, 374, 113578  (2021).
 
-10. **Yizhong Sun**, Feng Shi, Haibiao Zheng\*, Heng Li, Fan Wang (2021). [*Two-grid domain decomposition methods for the coupled Stokes--Darcy system*](https://doi.org/10.1016/j.cma.2021.114041). **Computer Methods in Applied Mechanics and Engineering**, 385, 114041.
+10. **Yizhong Sun**, Feng Shi, Haibiao Zheng\*, Heng Li, Fan Wang. [*Two-grid domain decomposition methods for the coupled Stokes--Darcy system*](https://doi.org/10.1016/j.cma.2021.114041). **Computer Methods in Applied Mechanics and Engineering**, 385, 114041  (2021).
 
-11. Jiaping Yu, **Yizhong Sun**, Feng Shi\*, Haibiao Zheng (2020). [*Nitsche's type stabilized finite element method for the fully mixed Stokes--Darcy problem with Beavers--Joseph conditions*](https://doi.org/10.1016/j.aml.2020.106588). **Applied Mathematics Letters**, 110, 106588.
+11. Jiaping Yu, **Yizhong Sun**, Feng Shi\*, Haibiao Zheng. [*Nitsche's type stabilized finite element method for the fully mixed Stokes--Darcy problem with Beavers--Joseph conditions*](https://doi.org/10.1016/j.aml.2020.106588). **Applied Mathematics Letters**, 110, 106588  (2020).
 
 ## Preprints
 
-1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\* (2026). [*Local Regularity Estimation through Sobolev-Scale Norm Profile*](https://arxiv.org/abs/2601.20207). arXiv:2601.20207.
+1. Xiaobin Li, Leevan Ling, **Yizhong Sun**\*. [*Local Regularity Estimation through Sobolev-Scale Norm Profile*](https://arxiv.org/abs/2601.20207). arXiv:2601.20207 (2026).
 
-2. Zijuan Xin, Chenyao Wang, Feng Shi, **Yizhong Sun**\* (2026). [*PINN-Based Kolmogorov--Arnold Networks with RAR-D Adaptive Sampling for Solving Elliptic Interface Problems*](https://arxiv.org/abs/2602.01876). arXiv:2602.01876.
+2. Zijuan Xin, Chenyao Wang, Feng Shi, **Yizhong Sun**\*. [*PINN-Based Kolmogorov--Arnold Networks with RAR-D Adaptive Sampling for Solving Elliptic Interface Problems*](https://arxiv.org/abs/2602.01876). arXiv:2602.01876 (2026).
