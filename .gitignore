@@ -5,6 +5,7 @@ push.sh
 .sass-cache/
 .jekyll-cache/
 .superpowers/
+.worktrees/
 docs/
 tools/
 findings.md
