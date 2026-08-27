@@ -198,17 +198,18 @@ h1:before, .anchor:before {
 
 .academic-timeline__item {
     display: grid;
-    grid-template-columns: 9.75rem minmax(0, 1fr);
+    grid-template-columns: 10.5rem minmax(0, 1fr);
     gap: 1.4rem;
 }
 
 .academic-timeline__date {
     padding-top: .2rem;
-    color: #52606d;
+    color: #16736b;
     font-size: .78rem;
     font-weight: 700;
     line-height: 1.5;
     text-transform: uppercase;
+    white-space: nowrap;
 }
 
 .academic-timeline__content {
@@ -274,7 +275,7 @@ h1:before, .anchor:before {
 
 .visiting-list__item {
     display: grid;
-    grid-template-columns: 9.75rem minmax(0, 1fr);
+    grid-template-columns: 10.5rem minmax(0, 1fr);
     gap: 1.4rem;
     padding: 1rem 0;
     border-bottom: 1px solid #d9e2ec;
@@ -285,6 +286,7 @@ h1:before, .anchor:before {
     font-size: .78rem;
     font-weight: 700;
     text-transform: uppercase;
+    white-space: nowrap;
 }
 
 .author__avatar img {

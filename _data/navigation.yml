@@ -6,14 +6,14 @@ main:
   - title: "Research"
     url: "/#research"
 
-  - title: "Education"
-    url: "/#education"
+  - title: "Experience"
+    url: "/#appointments"
 
   - title: "Visiting"
     url: "/#visiting"
 
-  - title: "Leadership"
-    url: "/#leadership"
+  - title: "Activities"
+    url: "/#conference-organization"
 
   - title: "Publications"
     url: "/#publications"
