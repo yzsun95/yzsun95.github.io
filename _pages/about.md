@@ -184,8 +184,10 @@ My research spans stable and scalable finite element methods for interface-coupl
 
 ## Preprints
 
-12. Xiaobin Li, Leevan Ling, **Yizhong Sun**\*. [*Local Regularity Estimation through Sobolev-Scale Norm Profile*](https://arxiv.org/abs/2601.20207). arXiv:2601.20207 (2026).
+12. Leevan Ling, Shu Ma, Weifeng Qiu, **Yizhong Sun**\*.[*Trace Inverse Estimates and Kernel-based Meshfree Galerkin Methods for Elliptic Interface Problems*](https://arxiv.org/abs/2610.27537). arXiv:2610.27537 (2026).
+    
+13. Leevan Ling, Shu Ma\*, **Yizhong Sun**.[*Stable admissible neural classes and convergent physics-informed neural networks*](https://arxiv.org/abs/2611.24355). arXiv:2611.24355 (2026).
+    
+14. Xiaobin Li, Leevan Ling, **Yizhong Sun**\*. [*Local Regularity Estimation through Sobolev-Scale Norm Profile*](https://arxiv.org/abs/2601.20207). arXiv:2601.20207 (2026).
 
-13. Leevan Ling, Shu Ma, Weifeng Qiu, **Yizhong Sun**\*.[*Trace Inverse Estimates and Kernel-based Meshfree Galerkin Methods for Elliptic Interface Problems*](https://arxiv.org/abs/2610.27537). arXiv:2610.27537 (2026).
-
-14. Zijuan Xin, Chenyao Wang, Feng Shi, **Yizhong Sun**\*. [*PINN-Based Kolmogorov--Arnold Networks with RAR-D Adaptive Sampling for Solving Elliptic Interface Problems*](https://arxiv.org/abs/2602.01876). arXiv:2602.01876 (2026).
+15. Zijuan Xin, Chenyao Wang, Feng Shi, **Yizhong Sun**\*. [*PINN-Based Kolmogorov--Arnold Networks with RAR-D Adaptive Sampling for Solving Elliptic Interface Problems*](https://arxiv.org/abs/2602.01876). arXiv:2602.01876 (2026).
